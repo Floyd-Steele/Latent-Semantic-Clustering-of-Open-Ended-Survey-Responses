@@ -1,2 +1,2 @@
-# Latent Semantic Clustering of Open-ended Survey Responses
+# Semantic Clustering of Open-ended Survey Responses
 

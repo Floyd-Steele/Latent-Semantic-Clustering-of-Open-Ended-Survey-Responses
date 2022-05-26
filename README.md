@@ -1,4 +1,4 @@
-# Semantic Clustering of Open-ended Survey Responses
+# Semantic Clustering of Open-ended Survey Data
 
 Project aimed at extracting the most representative responses from an open-ended survey question using a combination of Latent Semantic Analysis (LSA) and K-means clustering techniques. 
 
